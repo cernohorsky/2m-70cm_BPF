@@ -1,4 +1,4 @@
-27226105789272118
+27229650174688215
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107919,12 +107919,26 @@ SMT
 24
 1
 riske
+L_Wurth_WE-CAIR-3168
+Air Coil, body 3.05x6.86x3.18mm, https://www.we-online.com/en/components/products/WE-CAIR#/articles/WE-CAIR-3168
+SMT
+0
+2
+2
+riske
 L_Wurth_WE-CAIR-4248
 Air Coil, body 3.81x4.83x4.2mm, https://www.we-online.com/en/components/products/WE-CAIR#/articles/WE-CAIR-4248
 SMT
 0
 2
 2
+riske
+NOAA_logo
+
+
+0
+0
+0
 riske
 logo_galaxy
 

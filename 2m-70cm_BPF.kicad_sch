@@ -1534,7 +1534,7 @@
 				)
 				(uuid "46b4b3da-f6bb-4e59-b203-a2b6fda3613c")
 			)
-			(table_cell "18p"
+			(table_cell "22p"
 				(exclude_from_sim no)
 				(at 199.39 104.14 0)
 				(size 19.05 2.54)
@@ -1602,7 +1602,7 @@
 				)
 				(uuid "937af5ce-9895-4664-91a9-31cefe009c17")
 			)
-			(table_cell "22p"
+			(table_cell "33p"
 				(exclude_from_sim no)
 				(at 199.39 106.68 0)
 				(size 19.05 2.54)
@@ -1721,7 +1721,7 @@
 				)
 				(uuid "ae4d8702-72b6-4cd2-8cec-f5a04f96b3e8")
 			)
-			(table_cell "33n WE-CAIR 744912133G"
+			(table_cell "35n5 WE-CAIR 744914135G"
 				(exclude_from_sim no)
 				(at 180.34 114.3 0)
 				(size 19.05 6.35)
@@ -1738,7 +1738,7 @@
 				)
 				(uuid "ae4d8702-72b6-4cd2-8cec-f5a04f96b3e8")
 			)
-			(table_cell "33n WE-CAIR 744912133G"
+			(table_cell "35n5 WE-CAIR 744914135G"
 				(exclude_from_sim no)
 				(at 199.39 114.3 0)
 				(size 19.05 6.35)
@@ -1755,7 +1755,7 @@
 				)
 				(uuid "909d4189-a101-4c13-aad2-2d84476d834e")
 			)
-			(table_cell "8n2 WE-CAIR 744911088"
+			(table_cell "8n WE-CAIR 744913080G"
 				(exclude_from_sim no)
 				(at 218.44 114.3 0)
 				(size 19.05 6.35)
@@ -2071,7 +2071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33n"
+		(property "Value" "35n5"
 			(at 118.11 77.4699 0)
 			(effects
 				(font
@@ -2080,7 +2080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "riske:L_Wurth_WE-CAIR-4248"
+		(property "Footprint" "riske:L_Wurth_WE-CAIR-3168"
 			(at 116.84 76.2 0)
 			(effects
 				(font
@@ -2150,7 +2150,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "18p/200V"
+		(property "Value" "22p/200V"
 			(at 97.79 77.4699 0)
 			(effects
 				(font
@@ -2186,7 +2186,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "KGQ21HCG2D180FT"
+		(property "PN" "KGQ21HCG2D220FT"
 			(at 93.98 76.2 0)
 			(effects
 				(font
@@ -3086,7 +3086,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "18p/200V"
+		(property "Value" "22p/200V"
 			(at 194.31 77.4699 0)
 			(effects
 				(font
@@ -3122,7 +3122,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "KGQ21HCG2D180FT"
+		(property "PN" "KGQ21HCG2D220FT"
 			(at 190.5 76.2 0)
 			(effects
 				(font
@@ -3165,7 +3165,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22p/200V"
+		(property "Value" "33p/200V"
 			(at 146.05 77.4699 0)
 			(effects
 				(font
@@ -3201,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "KGQ21HCG2D220FT"
+		(property "PN" "KGQ21HCG2D330FT"
 			(at 142.24 76.2 0)
 			(effects
 				(font
@@ -3313,7 +3313,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33n"
+		(property "Value" "35n5"
 			(at 166.37 77.4699 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "riske:L_Wurth_WE-CAIR-4248"
+		(property "Footprint" "riske:L_Wurth_WE-CAIR-3168"
 			(at 165.1 76.2 0)
 			(effects
 				(font
@@ -3601,7 +3601,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33n"
+		(property "Value" "35n5"
 			(at 69.85 77.4699 0)
 			(effects
 				(font
@@ -3610,7 +3610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "riske:L_Wurth_WE-CAIR-4248"
+		(property "Footprint" "riske:L_Wurth_WE-CAIR-3168"
 			(at 68.58 76.2 0)
 			(effects
 				(font
